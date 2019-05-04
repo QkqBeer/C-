@@ -131,6 +131,7 @@
     <ClCompile Include="test.cpp" />
     <ClCompile Include="函数模板当函数参数.cpp" />
     <ClCompile Include="异常基本事项.cpp" />
+    <ClCompile Include="异常深入了解.cpp" />
     <ClCompile Include="模板类和操作符重载结合案例.cpp" />
     <ClCompile Include="模板类的继承.cpp" />
     <ClCompile Include="类型转换.cpp" />

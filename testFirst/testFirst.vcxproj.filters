@@ -48,6 +48,9 @@
     <ClCompile Include="异常基本事项.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="异常深入了解.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">
