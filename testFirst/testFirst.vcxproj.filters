@@ -51,6 +51,9 @@
     <ClCompile Include="异常深入了解.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="异常接口声明.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">
