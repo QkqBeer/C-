@@ -48,10 +48,13 @@
     <ClCompile Include="异常基本事项.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="异常深入了解.cpp">
+    <ClCompile Include="异常接口声明.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="异常接口声明.cpp">
+    <ClCompile Include="异常生命周期.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="异常的层次结构.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
