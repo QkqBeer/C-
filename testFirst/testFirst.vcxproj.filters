@@ -57,6 +57,9 @@
     <ClCompile Include="异常的层次结构.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="字符串替换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">
