@@ -125,8 +125,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="const_cast类型转换.cpp" />
+    <ClCompile Include="map的四中插入形式的不同.cpp" />
+    <ClCompile Include="mutlimap与员工信息结合.cpp" />
     <ClCompile Include="MyVector_Test.cpp" />
     <ClCompile Include="My_Vector.cpp" />
+    <ClCompile Include="set集合的仿函数以及pair的使用.cpp" />
     <ClCompile Include="Teacher.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="函数模板当函数参数.cpp" />

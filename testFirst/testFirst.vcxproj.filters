@@ -60,6 +60,15 @@
     <ClCompile Include="字符串替换.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="set集合的仿函数以及pair的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="map的四中插入形式的不同.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mutlimap与员工信息结合.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">
