@@ -75,6 +75,9 @@
     <ClCompile Include="二元谓词在set集合中的使用.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="函数适配器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">

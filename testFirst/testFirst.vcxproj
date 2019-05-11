@@ -135,6 +135,7 @@
     <ClCompile Include="二元谓词在set集合中的使用.cpp" />
     <ClCompile Include="仿函数的实现.cpp" />
     <ClCompile Include="函数模板当函数参数.cpp" />
+    <ClCompile Include="函数适配器.cpp" />
     <ClCompile Include="字符串替换.cpp" />
     <ClCompile Include="异常基本事项.cpp" />
     <ClCompile Include="异常接口声明.cpp" />
