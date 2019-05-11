@@ -69,6 +69,12 @@
     <ClCompile Include="mutlimap与员工信息结合.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="仿函数的实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二元谓词在set集合中的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">
