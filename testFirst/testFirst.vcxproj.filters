@@ -78,6 +78,12 @@
     <ClCompile Include="函数适配器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="并发进程线程.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="detach的陷阱.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">
