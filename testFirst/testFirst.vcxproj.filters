@@ -84,6 +84,9 @@
     <ClCompile Include="detach的陷阱.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数据共享案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">
