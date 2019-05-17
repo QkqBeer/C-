@@ -11,6 +11,16 @@ public:
 	{
 		for (int i = 0; i < 10000; ++i)
 		{
+			
+			//lock_guard <std::mutex> sbguard(my_mutex); 
+			//这句话可以代替my_mutex.lock(); my_mutex.unlock();不用成对匹配，利用对象构造函数和析构函数的特点，隐式调用lock()和unlock()函数。
+			//也可以使用下述方法：但是必须建立在拥有两个或两个以上互斥量的前提（两个互斥量的不同顺序会导致死锁）
+			/* //这样也不需要自己去匹配着去写unlock()函数
+			lock(my_mutex, my_mutex1);
+			lock_guard<std::mutex>(my_mutex, std::adopt_lock);
+			lock_guard<std::mutex>(my_mutex1, std::adopt_lock);
+            */
+
 			my_mutex.lock();
 			msgQueue.push_back(i);
 			cout << "msgQueue insert " << i << endl;
@@ -36,7 +46,8 @@ public:
 
 private:
 	list<int> msgQueue;
-	mutex my_mutex;
+	mutex my_mutex; //互斥量
+	mutex my_mutex1; //互斥量
 };
 
 int main()
