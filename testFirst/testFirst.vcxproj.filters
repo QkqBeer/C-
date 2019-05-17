@@ -87,6 +87,9 @@
     <ClCompile Include="数据共享案例.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="unique_lock的测试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">

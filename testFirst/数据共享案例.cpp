@@ -50,7 +50,7 @@ private:
 	mutex my_mutex1; //ª•≥‚¡ø
 };
 
-int main()
+int main25()
 {
 	A myobj;
 	thread threadDeal(&A::dealMsg, &myobj);

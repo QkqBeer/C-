@@ -133,6 +133,7 @@
     <ClCompile Include="set集合的仿函数以及pair的使用.cpp" />
     <ClCompile Include="Teacher.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="unique_lock的测试.cpp" />
     <ClCompile Include="二元谓词在set集合中的使用.cpp" />
     <ClCompile Include="仿函数的实现.cpp" />
     <ClCompile Include="函数模板当函数参数.cpp" />
