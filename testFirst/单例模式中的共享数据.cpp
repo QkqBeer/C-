@@ -49,7 +49,7 @@ void threadFunc()
 
 singleInstance* singleInstance::instanceT = NULL;
 
-int main()
+int main31()
 {
 	thread myobjThread1(threadFunc);
 	thread myobjThread2(threadFunc);

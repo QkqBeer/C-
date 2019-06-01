@@ -145,6 +145,7 @@
     <ClCompile Include="异常接口声明.cpp" />
     <ClCompile Include="异常生命周期.cpp" />
     <ClCompile Include="异常的层次结构.cpp" />
+    <ClCompile Include="异步.cpp" />
     <ClCompile Include="数据共享案例.cpp" />
     <ClCompile Include="模板类和操作符重载结合案例.cpp" />
     <ClCompile Include="模板类的继承.cpp" />
