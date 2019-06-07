@@ -146,10 +146,12 @@
     <ClCompile Include="异常生命周期.cpp" />
     <ClCompile Include="异常的层次结构.cpp" />
     <ClCompile Include="异步.cpp" />
+    <ClCompile Include="打包线程入口函数和异步配合使用.cpp" />
     <ClCompile Include="数据共享案例.cpp" />
     <ClCompile Include="模板类和操作符重载结合案例.cpp" />
     <ClCompile Include="模板类的继承.cpp" />
     <ClCompile Include="类型转换.cpp" />
+    <ClCompile Include="类成员函数做异步调用函数.cpp" />
     <ClCompile Include="类模板函数.cpp" />
     <ClCompile Include="设计模式单例模式.cpp" />
   </ItemGroup>

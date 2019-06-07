@@ -99,6 +99,12 @@
     <ClCompile Include="异步.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="类成员函数做异步调用函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打包线程入口函数和异步配合使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">
