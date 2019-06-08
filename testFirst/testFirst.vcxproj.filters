@@ -105,6 +105,9 @@
     <ClCompile Include="打包线程入口函数和异步配合使用.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="原子函数模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">

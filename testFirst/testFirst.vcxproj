@@ -139,6 +139,7 @@
     <ClCompile Include="函数模板当函数参数.cpp" />
     <ClCompile Include="函数适配器.cpp" />
     <ClCompile Include="单例模式中的共享数据.cpp" />
+    <ClCompile Include="原子函数模板.cpp" />
     <ClCompile Include="字符串替换.cpp" />
     <ClCompile Include="并发进程线程.cpp" />
     <ClCompile Include="异常基本事项.cpp" />
