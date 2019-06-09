@@ -130,6 +130,7 @@
     <ClCompile Include="mutlimap与员工信息结合.cpp" />
     <ClCompile Include="MyVector_Test.cpp" />
     <ClCompile Include="My_Vector.cpp" />
+    <ClCompile Include="notify_one和wait的使用.cpp" />
     <ClCompile Include="set集合的仿函数以及pair的使用.cpp" />
     <ClCompile Include="Teacher.cpp" />
     <ClCompile Include="test.cpp" />
@@ -147,6 +148,7 @@
     <ClCompile Include="异常生命周期.cpp" />
     <ClCompile Include="异常的层次结构.cpp" />
     <ClCompile Include="异步.cpp" />
+    <ClCompile Include="异步async的一个参数使用.cpp" />
     <ClCompile Include="打包线程入口函数和异步配合使用.cpp" />
     <ClCompile Include="数据共享案例.cpp" />
     <ClCompile Include="模板类和操作符重载结合案例.cpp" />

@@ -15,7 +15,7 @@ int mythread()
 int main32()
 {
 	cout << "mainFunc_thread_id: " << std::this_thread::get_id() << endl;
-	std::future<int> result = std::async(mythread);
+	std::future<int> result = std::async(mythread);   //async的第一个默认参数是std::launch::async|std::launch::referred
 	//do something
 	cout << "return value: " << result.get() << endl;
 	cout << "hahaha" << endl;

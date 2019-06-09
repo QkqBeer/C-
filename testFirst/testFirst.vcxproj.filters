@@ -108,6 +108,12 @@
     <ClCompile Include="原子函数模板.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="异步async的一个参数使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="notify_one和wait的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">
