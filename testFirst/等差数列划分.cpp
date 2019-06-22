@@ -72,7 +72,7 @@ public:
 	}
 };
 
-int main()
+int main413()
 {
 	Solution s;
 	vector<int> a = { 1,2,3,4 };
