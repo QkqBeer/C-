@@ -153,6 +153,7 @@
     <ClCompile Include="数据共享案例.cpp" />
     <ClCompile Include="模板类和操作符重载结合案例.cpp" />
     <ClCompile Include="模板类的继承.cpp" />
+    <ClCompile Include="等差数列划分.cpp" />
     <ClCompile Include="类型转换.cpp" />
     <ClCompile Include="类成员函数做异步调用函数.cpp" />
     <ClCompile Include="类模板函数.cpp" />
