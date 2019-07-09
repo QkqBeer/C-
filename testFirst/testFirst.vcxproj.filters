@@ -120,6 +120,12 @@
     <ClCompile Include="416.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="417.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">

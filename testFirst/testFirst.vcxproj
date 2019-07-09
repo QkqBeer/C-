@@ -124,7 +124,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="31.cpp" />
     <ClCompile Include="416.cpp" />
+    <ClCompile Include="417.cpp" />
     <ClCompile Include="const_cast类型转换.cpp" />
     <ClCompile Include="detach的陷阱.cpp" />
     <ClCompile Include="map的四中插入形式的不同.cpp" />
