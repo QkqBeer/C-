@@ -46,7 +46,7 @@ void getSonSet(int a, vector<vector<int>>& sonSet)
 	}
 }
 
-int main()
+int mainWangyi()
 {
 	int operate;
 	cin >> operate;
@@ -99,6 +99,7 @@ int main()
 			}
 		}
 	}
+	return 0;
 }
 //6
 //1 2

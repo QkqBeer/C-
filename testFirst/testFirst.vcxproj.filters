@@ -126,7 +126,10 @@
     <ClCompile Include="421.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="wangtiTest.cpp">
+    <ClCompile Include="平衡二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wangyiTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

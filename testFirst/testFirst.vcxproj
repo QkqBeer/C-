@@ -139,7 +139,7 @@
     <ClCompile Include="Teacher.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="unique_lock的测试.cpp" />
-    <ClCompile Include="wangtiTest.cpp" />
+    <ClCompile Include="wangyiTest.cpp" />
     <ClCompile Include="二元谓词在set集合中的使用.cpp" />
     <ClCompile Include="仿函数的实现.cpp" />
     <ClCompile Include="函数模板当函数参数.cpp" />
@@ -147,6 +147,7 @@
     <ClCompile Include="单例模式中的共享数据.cpp" />
     <ClCompile Include="原子函数模板.cpp" />
     <ClCompile Include="字符串替换.cpp" />
+    <ClCompile Include="平衡二叉树.cpp" />
     <ClCompile Include="并发进程线程.cpp" />
     <ClCompile Include="异常基本事项.cpp" />
     <ClCompile Include="异常接口声明.cpp" />
