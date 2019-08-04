@@ -127,6 +127,7 @@
     <ClCompile Include="31.cpp" />
     <ClCompile Include="416.cpp" />
     <ClCompile Include="417.cpp" />
+    <ClCompile Include="421.cpp" />
     <ClCompile Include="const_cast类型转换.cpp" />
     <ClCompile Include="detach的陷阱.cpp" />
     <ClCompile Include="map的四中插入形式的不同.cpp" />
@@ -138,6 +139,7 @@
     <ClCompile Include="Teacher.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="unique_lock的测试.cpp" />
+    <ClCompile Include="wangtiTest.cpp" />
     <ClCompile Include="二元谓词在set集合中的使用.cpp" />
     <ClCompile Include="仿函数的实现.cpp" />
     <ClCompile Include="函数模板当函数参数.cpp" />
@@ -156,7 +158,6 @@
     <ClCompile Include="数据共享案例.cpp" />
     <ClCompile Include="模板类和操作符重载结合案例.cpp" />
     <ClCompile Include="模板类的继承.cpp" />
-    <ClCompile Include="等差数列划分.cpp" />
     <ClCompile Include="类型转换.cpp" />
     <ClCompile Include="类成员函数做异步调用函数.cpp" />
     <ClCompile Include="类模板函数.cpp" />

@@ -28,54 +28,54 @@ A = [1, 2, 3, 4]
 返回: 3, A 中有三个子等差数组: [1, 2, 3], [2, 3, 4] 以及自身 [1, 2, 3, 4]。
 
 */
-#include <iostream>
-#include <vector>
-using namespace std;
-class Solution {
-public:
-	int numberOfArithmeticSlices(vector<int>& A)
-	{
-		if (A.size() <= 2)
-		{
-			return 0;
-		}
-		int count = 0;
-		int num = 2;
-		int expect = A[1] - A[0];
-		for (int i = 1; i < A.size() - 1; i++)
-		{
-			if (A[i + 1] - A[i] == expect)
-			{
-				num += 1;
-			}
-			else
-			{
-				if (num > 2)
-				{
-					for (int j = 0; j <= num - 2; j++)
-					{
-						count += j;
-					}
-				}
-				num = 2;
-				expect = A[i + 1] - A[i];
-			}
-		}
-		if (num > 2)
-		{
-			for (int j = 0; j <= num - 2; j++)
-			{
-				count += j;
-			}
-		}
-		return count;
-	}
-};
-
-int main413()
-{
-	Solution s;
-	vector<int> a = { 1,2,3,4 };
-	cout << s.numberOfArithmeticSlices(a);
-	return 0;
-}
+//#include <iostream>
+//#include <vector>
+//using namespace std;
+//class Solution {
+//public:
+//	int numberOfArithmeticSlices(vector<int>& A)
+//	{
+//		if (A.size() <= 2)
+//		{
+//			return 0;
+//		}
+//		int count = 0;
+//		int num = 2;
+//		int expect = A[1] - A[0];
+//		for (int i = 1; i < A.size() - 1; i++)
+//		{
+//			if (A[i + 1] - A[i] == expect)
+//			{
+//				num += 1;
+//			}
+//			else
+//			{
+//				if (num > 2)
+//				{
+//					for (int j = 0; j <= num - 2; j++)
+//					{
+//						count += j;
+//					}
+//				}
+//				num = 2;
+//				expect = A[i + 1] - A[i];
+//			}
+//		}
+//		if (num > 2)
+//		{
+//			for (int j = 0; j <= num - 2; j++)
+//			{
+//				count += j;
+//			}
+//		}
+//		return count;
+//	}
+//};
+//
+//int main413()
+//{
+//	Solution s;
+//	vector<int> a = { 1,2,3,4 };
+//	cout << s.numberOfArithmeticSlices(a);
+//	return 0;
+//}

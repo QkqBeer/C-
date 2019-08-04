@@ -37,22 +37,22 @@ m 和 n 都小于150
 
 */
 #include <iostream>
-#include <vector>
-using namespace std;
-
-class Solution {
-public:
-	
-	vector<vector<int>> pacificAtlantic(vector<vector<int>>& matrix) 
-	{
-		vector<vector<int>> res ;
-		for (int i = 0; i < matrix.size(); i++)
-		{
-			for (int j = 0; j < matrix[0].size(); j++)
-			{
-				if()
-			}
-		}
-		return res;
-	}
-};
+//#include <vector>
+//using namespace std;
+//
+//class Solution {
+//public:
+//	
+//	vector<vector<int>> pacificAtlantic(vector<vector<int>>& matrix) 
+//	{
+//		vector<vector<int>> res ;
+//		for (int i = 0; i < matrix.size(); i++)
+//		{
+//			for (int j = 0; j < matrix[0].size(); j++)
+//			{
+//				if()
+//			}
+//		}
+//		return res;
+//	}
+//};
