@@ -53,7 +53,7 @@ treeNode* BalanceTree::buildTree(int start, int end, int hight)
 }
 
 
-int main()
+int mainpinghang()
 {
 	vector<int> tmp = { 1,2,3,4,5,6,7,8 };
 	BalanceTree a(tmp);

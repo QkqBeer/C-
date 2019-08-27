@@ -132,6 +132,12 @@
     <ClCompile Include="wangyiTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="red_book.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zijie.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">
