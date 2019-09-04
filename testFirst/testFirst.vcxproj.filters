@@ -138,6 +138,24 @@
     <ClCompile Include="zijie.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="quickSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="400.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树的序列化和反序列化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="yx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="380.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">

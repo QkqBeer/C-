@@ -125,24 +125,30 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="31.cpp" />
+    <ClCompile Include="38.cpp" />
+    <ClCompile Include="380.cpp" />
     <ClCompile Include="416.cpp" />
     <ClCompile Include="417.cpp" />
     <ClCompile Include="421.cpp" />
     <ClCompile Include="const_cast类型转换.cpp" />
     <ClCompile Include="detach的陷阱.cpp" />
+    <ClCompile Include="400.cpp" />
     <ClCompile Include="map的四中插入形式的不同.cpp" />
     <ClCompile Include="mutlimap与员工信息结合.cpp" />
     <ClCompile Include="MyVector_Test.cpp" />
     <ClCompile Include="My_Vector.cpp" />
     <ClCompile Include="notify_one和wait的使用.cpp" />
+    <ClCompile Include="quickSort.cpp" />
     <ClCompile Include="red_book.cpp" />
     <ClCompile Include="set集合的仿函数以及pair的使用.cpp" />
     <ClCompile Include="Teacher.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="unique_lock的测试.cpp" />
     <ClCompile Include="wangyiTest.cpp" />
+    <ClCompile Include="yx.cpp" />
     <ClCompile Include="zijie.cpp" />
     <ClCompile Include="二元谓词在set集合中的使用.cpp" />
+    <ClCompile Include="二叉树的序列化和反序列化.cpp" />
     <ClCompile Include="仿函数的实现.cpp" />
     <ClCompile Include="函数模板当函数参数.cpp" />
     <ClCompile Include="函数适配器.cpp" />
