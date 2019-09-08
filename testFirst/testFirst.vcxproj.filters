@@ -156,6 +156,30 @@
     <ClCompile Include="38.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="32or64.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="146.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01背包算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="673.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="300.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="studyThread.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="move语法分析.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wangyibishi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">
