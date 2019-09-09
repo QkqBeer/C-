@@ -1,51 +1,51 @@
-//#include <iostream>
-//#include<vector>
-//#include <string>
-//using namespace std;
-//string change(int n)
-//{
-//	string s = "";
-//	while (n)
-//	{
-//		s += to_string(n % 2);
-//		n /= 2;
-//	}
-//	return s;
-//}
-//string nixu(string s)
-//{
-//	string a = "";
-//	for (int i = s.size() - 1; i >= 0; i--)
-//	{
-//		a += s[i];
-//	}
-//	return a;
-//}
-//int main()
-//{
-//	int num;
-//	cin >> num;
-//	vector<int> data;
-//	for (int i = 0; i < num; i++)
-//	{
-//		int tmp;
-//		cin >> tmp;
-//		data.push_back(tmp);
-//	}
-//	for (int i = 0; i < num; i++)
-//	{
-//		string s = change(data[i]);
-//		if (s == nixu(s))
-//		{
-//			cout << "YES" << endl;
-//		}
-//		else
-//		{
-//			cout << "NO" << endl;
-//		}
-//	}
-//	return 0;
-//}
+#include <iostream>
+#include<vector>
+#include <string>
+using namespace std;
+string change(int n)
+{
+	string s = "";
+	while (n)
+	{
+		s += to_string(n % 2);
+		n /= 2;
+	}
+	return s;
+}
+string nixu(string s)
+{
+	string a = "";
+	for (int i = s.size() - 1; i >= 0; i--)
+	{
+		a += s[i];
+	}
+	return a;
+}
+int mainWangyiFirst()
+{
+	int num;
+	cin >> num;
+	vector<int> data;
+	for (int i = 0; i < num; i++)
+	{
+		int tmp;
+		cin >> tmp;
+		data.push_back(tmp);
+	}
+	for (int i = 0; i < num; i++)
+	{
+		string s = change(data[i]);
+		if (s == nixu(s))
+		{
+			cout << "YES" << endl;
+		}
+		else
+		{
+			cout << "NO" << endl;
+		}
+	}
+	return 0;
+}
 
 
 
@@ -158,7 +158,7 @@ bool istrue(unordered_map<int, vector<int>> hash)
 	}
 	return f;
 }
-int main()
+int mainWangyiSecond()
 {
 	int time;
 	vector<string> res;

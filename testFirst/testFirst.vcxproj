@@ -125,6 +125,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01背包算法.cpp" />
+    <ClCompile Include="1114.cpp" />
     <ClCompile Include="146.cpp" />
     <ClCompile Include="300.cpp" />
     <ClCompile Include="31.cpp" />
@@ -173,6 +174,7 @@
     <ClCompile Include="异步async的一个参数使用.cpp" />
     <ClCompile Include="打包线程入口函数和异步配合使用.cpp" />
     <ClCompile Include="数据共享案例.cpp" />
+    <ClCompile Include="最长公共子序列.cpp" />
     <ClCompile Include="模板类和操作符重载结合案例.cpp" />
     <ClCompile Include="模板类的继承.cpp" />
     <ClCompile Include="类型转换.cpp" />

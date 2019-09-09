@@ -180,6 +180,12 @@
     <ClCompile Include="wangyibishi.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1114.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长公共子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyVector.h">
